@@ -50,3 +50,8 @@ To become a skilled Software Developer by building real-world projects, masterin
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-nshika36&show_icons=true&theme=tokyonight)
 
+
+!## 🐍 Contribution Snake
+
+![snake animation](https://github.com/A-nshika36/A-nshika36/blob/output/github-contribution-grid-snake.svg)
+
