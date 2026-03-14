@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Anshika Kumari
 
-<!--
-**A-nshika36/A-nshika36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech AI Student  
+🏫 Student at SKIT Jaipur  
+💻 Interested in Programming and Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- C / C++
+- Core Java
+- HTML
+- CSS
+- JavaScript
+- DBMS
+
+---
+
+## 📚 Currently Learning
+- Data Structures & Algorithms in Java
+- React
+- Web Development
+
+---
+
+## 💻 Projects
+- 🏛 Museum Booking System  
+- 🖥 Online Examination System with Auto Timer & Result Display
+
+---
+
+## 🎯 Professional Goal
+To become a skilled Software Developer by building real-world projects, mastering Data Structures & Algorithms in Java, and continuously improving my problem-solving skills.
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
+
